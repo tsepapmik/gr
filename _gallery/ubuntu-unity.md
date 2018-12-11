@@ -6,7 +6,6 @@ caption: 'To Unity είναι ένα γραφικό κέλυφος που έκα
 license_url: 'https://en.wikipedia.org/wiki/File:Ubuntu_16.04_Desktop.png'
 license_text: Courtesy of wikipedia
 categories:
-  - Desktop
   - GUI
 tags:
   - Linux
