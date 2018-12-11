@@ -18,5 +18,3 @@ gallery:
 ---
 
 {% include_relative bio-licklider.md %}
-
-{% include slides.html caption="Εικόνες για την βιογραφία του J. C. R. Licklider" %}
