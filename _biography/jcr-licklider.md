@@ -14,7 +14,11 @@ tags:
   - Xerox PARC
 gallery:
   - image_url: /images/jcr-licklider.jpg
-    caption: "J. C. R. Licklider"
+    caption: ""
+  - image_url: /images/jcr-licklider-1.jpg
+    caption: ""
 ---
 
 {% include_relative bio-licklider.md %}
+
+{% include slides.html caption="Εικόνες για την βιογραφία του J. C. R. Licklider" %}
